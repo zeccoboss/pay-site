@@ -207,18 +207,6 @@ body {
     left: -1000px;
 }
 
-@media screen and (min-width: 375px) {
-    .menu_bar {
-        display: none;
-    }
-
-    .nav {
-        display: flex;
-        gap: 1rem;
-    }
-
-}
-
 /* || index.html */
 
 .icon {
@@ -424,11 +412,3 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
-/* 
-.details {
-    justify-content: flex-end;
-    background-image: url("./img/izic.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-} */
